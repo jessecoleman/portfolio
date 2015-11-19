@@ -1,3 +1,36 @@
-html {
+body {
+    font-family: Roboto, sans-serif;
+    background: #eceff1;
+}
 
+#content {
+    margin: 96px 128px;
+    pointer-events: none;
+}
+
+.tab {
+    text-decoration: none;
+    color: white;
+}
+
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #DDD;
+}
+
+paper-fab {
+    position: fixed;
+    bottom: 48px;
+    right: 48px;
+}
+
+.dropdown-content {
+    color: black;
+}
+
+paper-menu iron-icon {
+    --iron-icon-fill-color: black;
 }
