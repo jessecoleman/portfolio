@@ -2,584 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80c00b55-f5ac-4221-af99-03800ebd19de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/demo/location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/profile-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-roboto/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/COPYING" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-roboto/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/test/a11y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/test/a11y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/test/a11y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/activate-event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/test/active-state.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/all-imports.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/dropdown/animated-dropdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/grid/animated-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/load/animated-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/reprojection/animated-grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/demo/async.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/test/attr-for-selected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/av-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/test/basic-test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/doc/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-roboto/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/build.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/build.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/cascaded-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/cats-only.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/tiles/circles-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/color.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/communication-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/content-element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/default-theme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/demo-pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/demo/demo-snippet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/device-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/test/disabled-state.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/editor-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/excluded-local-names.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/fade-in-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/fade-out-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/test/focused-state.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/load/full-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/list/full-view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/grid/fullsize-page-with-card.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/reprojection/fullsize-page-with-card.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/classes/global.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/demo/grow-height-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/hardware-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/hero-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/hero.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/test/horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/image-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/card/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/declarative/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/dropdown/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/grid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/list/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/load/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/reprojection/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/tiles/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/iron-checked-element-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-collapse/iron-collapse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/iron-dropdown-scroll-manager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/test/iron-dropdown-scroll-manager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/iron-dropdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/test/iron-dropdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/iron-fit-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/test/iron-fit-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/classes/iron-flex-layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/iron-form-element-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/iron-icon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icon/test/iron-icon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/iron-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/iron-iconset-svg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/test/iron-iconset-svg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/iron-image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/test/iron-image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/iron-media-query.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/iron-menu-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/test/iron-menu-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/iron-menubar-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/test/iron-menubar-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/iron-meta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-meta/test/iron-meta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-multi-selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-backdrop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/test/iron-overlay-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/iron-overlay-manager.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/iron-resizable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/iron-resizable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selectable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selection.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/classes/iron-shadow-flex-layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/iron-validatable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/iron-validatable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/list/list-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/list/list-view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/maps-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/multi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/doc/my-animatable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/doc/my-dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animatable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animatable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animated-pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/test/neon-animated-pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animation-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animation-runner-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/guides/neon-animation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-animations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-shared-element-animatable-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/neon-shared-element-animation-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/next-previous.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/notification-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/opaque-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-button-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/paper-button-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/demo/paper-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/paper-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-button/test/paper-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-card/paper-card.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-checked-element-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/paper-checked-element-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/paper-drawer-panel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-fab/paper-fab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/paper-header-panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-header-panel/paper-header-panel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/paper-icon-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/paper-icon-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-inky-focus-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/paper-item-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/paper-item-body.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/paper-item-shared-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/paper-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-item/test/paper-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/paper-listbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-listbox/test/paper-listbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/paper-material.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-material/test/paper-material.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/paper-menu-button-animations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/paper-menu-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu-button/test/paper-menu-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/paper-menu-shared-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/paper-menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/test/paper-menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/paper-radio-button-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/demo/paper-radio-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-ripple-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/paper-ripple-behavior.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/paper-ripple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/test/paper-ripple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/paper-styles-classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/paper-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/paper-submenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-menu/test/paper-submenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/paper-tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/demo/paper-tabs-demo-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/paper-tabs-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/paper-tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/paper-toolbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-toolbar/test/paper-toolbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-image/demo/polymer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/test/positioning.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/project-view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/reprojection/reprojected-pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/reverse-ripple-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/ripple-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/font-roboto/roboto.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/scale-down-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/scale-up-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/selected-attribute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/classes/shadow-layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/shadow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/classes/shadow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/shared.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/demo/simple-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/demo/simple-checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-checked-element-behavior/test/simple-checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/simple-element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/demo/simple-fit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/demo/simple-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/demo/simple-menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/demo/simple-menubar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/demo/simple-overlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-down-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-from-left-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-from-right-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-left-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-right-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/slide-up-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-drawer-panel/test/small-devices.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-icons/social-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/tiles/squares-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/demo/svg-sample-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-tabs/demo/tabs-with-content-example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-selector/test/template-repeat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/test-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/test/test-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/test/test-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-fit-behavior/test/test-fit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/test/test-menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-menu-behavior/test/test-menubar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-overlay-behavior/test/test-overlay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/test/test-radio-button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/test/test-resizable-pages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/test/test-validatable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/animations/transform-animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/doc/types.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/paper-styles/classes/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/demo/validatable-input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations-next-lite.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations-next-lite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations-next.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations-next.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/web-animations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/web-animations.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/demo/src/x-app.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/card/x-card.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/neon-animation/demo/card/x-cards-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/demo/x-key-aware.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/iron-dropdown/demo/x-select.html" />
-      <change type="DELETED" beforePath="C:\Users\colec\Documents\Web Projects\portfolio\js\main.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/stateDirectives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/stateFilters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/templateFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/urlRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/viewDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/viewScroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/project-view.html" afterPath="$PROJECT_DIR$/templates/project-view.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Portfolio.iws" />
@@ -600,98 +57,139 @@
     <favorites_list name="Portfolio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.268125">
-              <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo-pages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/demo-pages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-37.714287">
-              <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="color.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="226.90475">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.714286">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.78571427">
-              <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.285714">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.40314358">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5220278">
+                  <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project-view.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/project-view.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="paper-item.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/paper-item/paper-item.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="iron-control-state.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="44.785713">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="iron-button-state.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.383838">
+                  <caret line="167" column="22" selection-start-line="167" selection-start-column="15" selection-end-line="167" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/paper-behaviors/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/paper-behaviors/demo/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="color.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4467334">
+                  <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -708,14 +206,14 @@
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/bower_components/paper-header-panel/demo/index.html" />
-        <option value="$PROJECT_DIR$/templates/project-view.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
         <option value="$PROJECT_DIR$/templates/contact.html" />
-        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/bower_components/paper-styles/typography.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/templates/project-view.html" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
@@ -755,7 +253,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -816,16 +314,102 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paper-behaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paper-behaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iron-behaviors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spotify-template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../343-final-project" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -879,13 +463,20 @@
       <option name="number" value="Default" />
       <updated>1445293197371</updated>
     </task>
+    <task id="LOCAL-00001" summary="Material Design Bitchezzz!">
+      <created>1447914996253</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447914996253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1946" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21533333" sideWeight="0.49799198" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21533333" sideWeight="0.9259897" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329891" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -893,9 +484,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21533333" sideWeight="0.502008" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21533333" sideWeight="0.07401033" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -906,20 +498,21 @@
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329891" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329891" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25066668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21533333" sideWeight="0.49569708" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21533333" sideWeight="0.5043029" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -934,6 +527,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Material Design Bitchezzz!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Material Design Bitchezzz!" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -942,23 +539,7 @@
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -967,6 +548,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -983,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,63 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/project-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,19 +740,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/project-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/paper-drawer-panel/demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.104750305">
           <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1238,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
@@ -1249,13 +769,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.78571427">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
           <folding />
         </state>
@@ -1263,16 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.285714">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -1301,17 +812,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="226.90475">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/demo-pages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.714287">
+        <state vertical-scroll-proportion="0.0">
           <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
           <folding />
         </state>
@@ -1321,14 +824,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/paper-styles/color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/bower_components/iron-icons/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.714286">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/iron-icons/communication-icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/iron-icons/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/paper-behaviors/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/paper-behaviors/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1336,15 +882,63 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/paper-item/paper-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="44.785713">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.383838">
+          <caret line="167" column="22" selection-start-line="167" selection-start-column="15" selection-end-line="167" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/project-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.268125">
-          <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.5220278">
+          <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
           <folding />
         </state>
       </provider>

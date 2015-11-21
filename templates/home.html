@@ -1,23 +1,25 @@
-<paper-card heading="Where I'm from" class="flex">
-    <div class="card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet venenatis nunc, non porttitor nulla. Cras laoreet enim mi, non venenatis diam varius sed. Curabitur interdum viverra purus, sed placerat tortor rhoncus vel. Etiam dui eros, ornare a eros et, semper pellentesque purus. Nullam viverra erat vel nibh porttitor, et euismod mauris convallis. Donec ante velit, sagittis eu libero sollicitudin, semper commodo lectus. Sed vestibulum, odio id pretium iaculis, turpis mauris bibendum augue, quis finibus tortor metus vel mi.
+<paper-card ng-repeat="item in about" heading="{{item.name}}" flex>
+    <div class="card-content" ng-bind="item.content"></div>
 
-        Maecenas vitae dui eget leo aliquam porttitor. Nunc malesuada orci non ex hendrerit mollis. Sed sit amet blandit dolor. Ut nec faucibus ante. Nunc faucibus iaculis dui, vel eleifend metus laoreet quis. Suspendisse ante arcu, lobortis ac ultrices sit amet, ullamcorper tincidunt dolor. Proin nec aliquet justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Fusce purus nulla, auctor venenatis magna eget, interdum varius lorem. Aliquam id varius est, et convallis tellus. Pellentesque aliquet, nunc a feugiat varius, elit turpis blandit justo, non viverra mi mi a ex. Fusce quis tortor malesuada, consectetur felis eu, finibus massa. Mauris euismod mi non suscipit lobortis.
+    <div class="card-actions">
+        <paper-button>Some action</paper-button>
+    </div>
+</paper-card>
 
-        Morbi aliquam aliquet congue. Sed euismod nibh odio, ut mattis metus viverra nec. Sed a metus dignissim sem venenatis feugiat. Proin aliquet pulvinar maximus. Duis at lectus interdum, faucibus erat sed, pellentesque turpis. Suspendisse sapien ex, elementum in tortor vel, accumsan rutrum orci. Vivamus volutpat ligula et scelerisque lobortis. Curabitur tempus feugiat dui eu volutpat.
-
-        In volutpat urna nec purus pellentesque bibendum. Donec pellentesque interdum lacus, vitae placerat neque condimentum in. Duis dapibus purus sed ex auctor, quis pharetra nulla consequat. Suspendisse sit amet neque neque. Phasellus commodo sagittis tincidunt. Nunc consectetur augue in ante maximus tempor. Duis turpis nisi, sagittis sit amet vehicula ut, aliquam sed neque. Mauris vehicula tristique ipsum sed aliquet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque magna leo, posuere in dui et, consectetur varius nunc. Nam posuere eu nisi ac egestas. Suspendisse id sapien nulla. Nunc sed finibus velit, at maximus metus. Sed mauris tellus, porttitor ac sodales ac, venenatis at ex.
-
-        Sed semper sapien sit amet erat posuere suscipit. Cras non enim mollis, blandit lorem et, finibus leo. Praesent sapien justo, iaculis congue urna eu, mattis eleifend erat. Suspendisse elementum efficitur urna quis pharetra. Proin malesuada rhoncus quam, nec tempus ex ultricies in. Nunc eget fringilla lectus. In et nibh a lorem placerat fermentum sit amet porta mi. Pellentesque vitae lacus non risus venenatis aliquam. Cras molestie augue hendrerit ultricies consectetur.</div>
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet venenatis nunc, non porttitor nulla. Cras laoreet enim mi, non venenatis diam varius sed. Curabitur interdum viverra purus, sed placerat tortor rhoncus vel. Etiam dui eros, ornare a eros et, semper pellentesque purus. Nullam viverra erat vel nibh porttitor, et euismod mauris convallis. Donec ante velit, sagittis eu libero sollicitudin, semper commodo lectus. Sed vestibulum, odio id pretium iaculis, turpis mauris bibendum augue, quis finibus tortor metus vel mi.
-
-    Maecenas vitae dui eget leo aliquam porttitor. Nunc malesuada orci non ex hendrerit mollis. Sed sit amet blandit dolor. Ut nec faucibus ante. Nunc faucibus iaculis dui, vel eleifend metus laoreet quis. Suspendisse ante arcu, lobortis ac ultrices sit amet, ullamcorper tincidunt dolor. Proin nec aliquet justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Fusce purus nulla, auctor venenatis magna eget, interdum varius lorem. Aliquam id varius est, et convallis tellus. Pellentesque aliquet, nunc a feugiat varius, elit turpis blandit justo, non viverra mi mi a ex. Fusce quis tortor malesuada, consectetur felis eu, finibus massa. Mauris euismod mi non suscipit lobortis.
-
-    Morbi aliquam aliquet congue. Sed euismod nibh odio, ut mattis metus viverra nec. Sed a metus dignissim sem venenatis feugiat. Proin aliquet pulvinar maximus. Duis at lectus interdum, faucibus erat sed, pellentesque turpis. Suspendisse sapien ex, elementum in tortor vel, accumsan rutrum orci. Vivamus volutpat ligula et scelerisque lobortis. Curabitur tempus feugiat dui eu volutpat.
-
-    In volutpat urna nec purus pellentesque bibendum. Donec pellentesque interdum lacus, vitae placerat neque condimentum in. Duis dapibus purus sed ex auctor, quis pharetra nulla consequat. Suspendisse sit amet neque neque. Phasellus commodo sagittis tincidunt. Nunc consectetur augue in ante maximus tempor. Duis turpis nisi, sagittis sit amet vehicula ut, aliquam sed neque. Mauris vehicula tristique ipsum sed aliquet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque magna leo, posuere in dui et, consectetur varius nunc. Nam posuere eu nisi ac egestas. Suspendisse id sapien nulla. Nunc sed finibus velit, at maximus metus. Sed mauris tellus, porttitor ac sodales ac, venenatis at ex.
-
-    Sed semper sapien sit amet erat posuere suscipit. Cras non enim mollis, blandit lorem et, finibus leo. Praesent sapien justo, iaculis congue urna eu, mattis eleifend erat. Suspendisse elementum efficitur urna quis pharetra. Proin malesuada rhoncus quam, nec tempus ex ultricies in. Nunc eget fringilla lectus. In et nibh a lorem placerat fermentum sit amet porta mi. Pellentesque vitae lacus non risus venenatis aliquam. Cras molestie augue hendrerit ultricies consectetur.</div>
+<paper-card heading="School" class="flex">
+    <div class="card-content">
+        I have been a student at The University of Washington since the Fall of 2014. I'm currently a sophomore on track
+        to graduate by 2018, with a double degree in Informatics and Applied Computational Math Sciences. I have a
+        particular interest in web and mobile design and development, but intend on building up my skills in other
+        technologies to become multidisciplinary and expand my potential career options in the future.
+    </div>
+    <!-- Math 126 -->
+    <paper-item>
+        <paper-item-body two-line>
+            <div>Math 126 Multivariable Calculus</div>
+            <div secondary>Learned about double integrals and taylor series</div>
+        </paper-item-body>
+    </paper-item>
 
     <div class="card-actions">
         <paper-button>Some action</paper-button>
