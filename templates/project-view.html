@@ -1,1 +1,8 @@
-This is a project View
+<paper-card heading="{{project.name}}" flex>
+    <div class="card-content" ng-bind="project.content"></div>
+
+    <div class="card-actions">
+        <paper-button>Some action</paper-button>
+    </div>
+</paper-card>
+<paper-fab class="main" icon="link" ng-click="pressFab(project.url)"></paper-fab>

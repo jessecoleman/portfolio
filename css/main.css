@@ -4,7 +4,7 @@ body {
 }
 
 #content {
-    margin: 96px 128px;
+    margin: 36px;
 }
 
 .tab {
@@ -28,18 +28,23 @@ body {
     background-color: #DDD;
 }
 
-paper-fab {
+.title {
+    padding-left: 16px;
+}
+
+paper-fab.main {
     position: fixed;
-    bottom: 48px;
-    right: 48px;
+    bottom: 24px;
+    right: 24px;
+}
+
+paper-fab[mini] {
+    position: fixed;
+    right: 32px;
 }
 
 .dropdown-content {
     color: black;
-}
-
-paper-menu iron-icon {
-    --iron-icon-fill-color: black;
 }
 
 paper-menu a {
@@ -47,8 +52,13 @@ paper-menu a {
     color: #3367d6;
 }
 
+paper-menu-button {
+    display: inline;
+}
+
 paper-card {
-    margin-bottom: 48px;
+    margin-bottom: 24px;
+    width: 100%;
 }
 
 div.card-content {
@@ -58,4 +68,23 @@ div.card-content {
 
 .white {
     color: white;
+}
+
+@media (min-width: 992px) {
+    #content {
+        margin: 96px 128px;
+    }
+
+    paper-fab.main {
+        bottom: 48px;
+        right: 48px;
+    }
+
+    #paper-fab[mini] {
+        right: 56px;
+    }
+
+    paper-card {
+        margin-bottom: 48px;
+    }
 }

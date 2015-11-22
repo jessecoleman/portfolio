@@ -1,27 +1,11 @@
-<paper-card ng-repeat="item in about" heading="{{item.name}}" flex>
+
+<paper-card ng-repeat="item in about | filter:{$id:'!contact'} |orderBy:order" heading="{{item.name}}" flex>
     <div class="card-content" ng-bind="item.content"></div>
-
-    <div class="card-actions">
-        <paper-button>Some action</paper-button>
-    </div>
 </paper-card>
 
-<paper-card heading="School" class="flex">
-    <div class="card-content">
-        I have been a student at The University of Washington since the Fall of 2014. I'm currently a sophomore on track
-        to graduate by 2018, with a double degree in Informatics and Applied Computational Math Sciences. I have a
-        particular interest in web and mobile design and development, but intend on building up my skills in other
-        technologies to become multidisciplinary and expand my potential career options in the future.
-    </div>
-    <!-- Math 126 -->
-    <paper-item>
-        <paper-item-body two-line>
-            <div>Math 126 Multivariable Calculus</div>
-            <div secondary>Learned about double integrals and taylor series</div>
-        </paper-item-body>
-    </paper-item>
+<paper-fab class="main" icon="social:person" ng-click="fabExpand = !fabExpand"></paper-fab>
 
-    <div class="card-actions">
-        <paper-button>Some action</paper-button>
-    </div>
-</paper-card>
+<paper-fab ng-repeat="item in contact" mini icon="{{item.icon}}" ng-show="fabExpand" ng-click="pressFab(item.url)"></paper-fab>
+
+
+

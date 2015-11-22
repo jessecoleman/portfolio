@@ -56,40 +56,23 @@
         <!-- drawer -->
         <paper-header-panel drawer class="layout vertical">
             <div class="profile layout vertical">
-                <img src="assets/profile-image.jpg" class="avatar flex">
-                <h3 class="flex white">Jesse Chamberlin</h3>
+                <img src="assets/profile-image.jpg" class="avatar">
+                <h3 class="white" ng-click="goHome()">Jesse Chamberlin</h3>
             </div>
             <div>
+                <h4 class="title">My Projects</h4>
                 <paper-listbox id="drawer-list">
-                    <paper-item ng-repeat="project in projects" ng-click="redirect(project.$id)" class="drawer-item">
+                    <paper-item ng-repeat="project in projects | orderBy:date" ng-click="redirect(project.$id)" class="drawer-item">
                         <text ng-bind="project.name"></text>
                     </paper-item>
                 </paper-listbox>
             </div>
         </paper-header-panel>
         <!-- main content -->
-        <paper-header-panel main class="flex transparent" mode="seamed">
-            <paper-toolbar class="tall">
+        <paper-header-panel main class="flex">
+            <paper-toolbar>
                 <paper-icon-button icon="menu" paper-drawer-toggle></paper-icon-button>
                 <span class="flex"></span>
-                <paper-menu-button horizontal-align="right">
-                    <paper-icon-button icon="social:person" class="dropdown-trigger"></paper-icon-button>
-                    <paper-menu class="dropdown-content">
-                        <paper-item class="social:person">Contact Me</paper-item>
-                        <paper-icon-item>
-                            <iron-icon icon="communication:phone" item-icon></iron-icon>
-                            <a href="tel:509-207-9892">509-207-9892</a>
-                        </paper-icon-item>
-                        <paper-icon-item>
-                            <iron-icon icon="communication:email" item-icon></iron-icon>
-                            <a href="mailto:colechamberlin@gmail.com">colechamberlin@gmail.com</a>
-                        </paper-icon-item>
-                        <paper-icon-item>
-                            <iron-icon icon="social:person-add" item-icon></iron-icon>
-                            <a href="https://plus.google.com/u/0/+ColeChamberlin">+Cole Chamberlin</a>
-                        </paper-icon-item>
-                    </paper-menu>
-                </paper-menu-button>
                 <paper-tabs ng-show="false" class="bottom fit" selected="0">
                     <paper-tab link><a ui-sref="home" class="horizontal center-center layout tab">Home</a></paper-tab>
                     <paper-tab link><a ui-sref="about" class="horizontal center-center layout tab">About</a></paper-tab>
@@ -98,7 +81,6 @@
             </paper-toolbar>
             <!-- ui-view loads html fragments from templates directory -->
             <div ui-view id="content" class="vertical layout center">Content</div>
-            <paper-fab icon="link"></paper-fab>
         </paper-header-panel>
     </paper-drawer-panel>
 </body>
