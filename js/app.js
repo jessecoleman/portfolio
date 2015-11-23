@@ -36,13 +36,10 @@ app.config(function($stateProvider) {
     })
 })
 .controller('mainCtrl', function($scope, $filter, $firebaseArray, $state) {
-    $scope.getSmall = function() {
-        return $('#content').css('margin') === '36px';
-    };
-
     //check css on element styled with media-queries instead of relying on $().width, fixes wrong width due to scrollbar
     var resize = function() {
-        if ($scope.getSmall()) {
+        $scope.smallScreen = $('#content').css('margin') === '36px';
+        if ($scope.smallScreen) {
             $('paper-header-panel[main]').prop('mode', 'seamed');
             $('paper-toolbar').removeClass('tall');
         } else {
@@ -88,7 +85,7 @@ app.config(function($stateProvider) {
 
     var positionFabs = function() {
         var offset = 56;
-        if($scope.getSmall()) {
+        if($scope.smallScreen) {
             offset = 32;
         }
 
@@ -98,8 +95,8 @@ app.config(function($stateProvider) {
         })
     };
 
-    positionFabs();
     $(window).resize(positionFabs);
+    setTimeout(positionFabs, 1000);
 })
 .controller('projectViewCtrl', function($scope, $state, $firebaseObject) {
 
