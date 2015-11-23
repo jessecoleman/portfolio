@@ -1,4 +1,4 @@
-
+<!-- Displays my about page with contact info fab and general qualifications -->
 <paper-card ng-repeat="item in about | filter:{$id:'!contact'} |orderBy:order" heading="{{item.name}}" flex>
     <div class="card-content" ng-bind="item.content"></div>
 </paper-card>

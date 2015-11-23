@@ -60,10 +60,12 @@ app.config(function($stateProvider) {
         }
     };
 
+    // navigate to external link on fab press
     $scope.pressFab = function(url) {
         window.location.replace(url);
     };
 
+    // navigate home
     $scope.goHome = function() {
         if(!$state.is('home')) {
             $state.go('home');
@@ -76,6 +78,7 @@ app.config(function($stateProvider) {
         resize();
     })
 })
+// controller to take care of behavior on about page
 .controller('homeCtrl', function($scope, $firebaseArray) {
     var aboutRef = ref.child('about');
     $scope.about = $firebaseArray(aboutRef);
@@ -98,6 +101,7 @@ app.config(function($stateProvider) {
     $(window).resize(positionFabs);
     setTimeout(positionFabs, 1000);
 })
+// controller to take care of behavior on project view pages
 .controller('projectViewCtrl', function($scope, $state, $firebaseObject) {
 
     var stateData = projectsRef.child($state.current.name);
