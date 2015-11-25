@@ -86,7 +86,7 @@ app.config(function($stateProvider) {
     var contactRef = aboutRef.child('contact');
     $scope.contact = $firebaseArray(contactRef);
 
-    var positionFabs = function() {
+    $scope.positionFab = function($index) {
         var offset = 56;
         if($scope.smallScreen) {
             offset = 32;
@@ -95,11 +95,11 @@ app.config(function($stateProvider) {
         $('paper-fab[mini]').each(function (index) {
             $(this).css('bottom', (index + 1) * 56 + offset + 12);
             $(this).css('right', offset);
-        })
+        });
+        return("bottom:" + (($index + 1) * 56 + offset + 12) + "; right:" + offset);
     };
 
-    $(window).resize(positionFabs);
-    setTimeout(positionFabs, 1000);
+    $(window).resize($scope.positionFab);
 })
 // controller to take care of behavior on project view pages
 .controller('projectViewCtrl', function($scope, $state, $firebaseObject) {

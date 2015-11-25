@@ -4,7 +4,7 @@
 </paper-card>
 
 <paper-fab class="main" icon="social:person" ng-click="fabExpand = !fabExpand"></paper-fab>
-<paper-fab ng-repeat="item in contact" mini icon="{{item.icon}}" ng-show="fabExpand" ng-click="pressFab(item.url)"></paper-fab>
+<paper-fab ng-repeat="item in contact track by $index" mini icon="{{item.icon}}" ng-show="fabExpand" ng-click="pressFab(item.url)" style="{{positionFab($index)}}"></paper-fab>
 
 
 

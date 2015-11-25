@@ -1,5 +1,5 @@
 <!-- Displays each project in my portfolio -->
 <paper-card heading="{{project.name}}" image="{{'assets//' + project.$id + '-banner.png'}}" flex>
-    <div class="card-content" ng-bind="project.content"></div>
+    <div class="card-content" ng-bind="project.content"><div ng-bind="project.content" style="padding: 0 16px;"></div></div>
 </paper-card>
 <paper-fab class="main" icon="link" ng-click="pressFab(project.url)"></paper-fab>
